@@ -525,7 +525,3 @@ This assignment demonstrates fundamental array operations and two-dimensional ar
 These implementations provide a solid foundation for understanding array-based data structures and their applications in solving real-world programming problems. The solutions emphasize simplicity, efficiency, and proper handling of edge cases.
 
 ---
-
-## License
-
-MIT License - Feel free to use and modify these solutions for educational purposes.
